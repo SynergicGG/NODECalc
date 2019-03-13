@@ -1,2 +1,0 @@
-# NODECalc
-Created with CodeSandbox
